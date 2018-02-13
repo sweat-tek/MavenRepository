@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.decouplink</groupId>
+  <artifactId>decouplink</artifactId>
+  <version>1.0.2-20180121.012131-408</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180206.012130</timestamp>
+      <buildNumber>424</buildNumber>
+    </snapshot>
+    <lastUpdated>20180206012359</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.0.2-20180206.012130-424</value>
+        <updated>20180206012130</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>nbm</extension>
+        <value>1.0.2-20180206.012130-424</value>
+        <updated>20180206012130</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.2-20180206.012130-424</value>
+        <updated>20180206012130</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.2-20180206.012130-424</value>
+        <updated>20180206012130</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
