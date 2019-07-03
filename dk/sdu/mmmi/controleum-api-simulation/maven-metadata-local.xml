@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>dk.sdu.mmmi</groupId>
+  <artifactId>controleum-api-simulation</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190703073749</lastUpdated>
+  </versioning>
+</metadata>
