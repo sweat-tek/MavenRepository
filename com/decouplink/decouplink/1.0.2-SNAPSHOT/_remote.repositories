@@ -1,5 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Feb 06 10:12:33 CET 2018
-decouplink-1.0.2-20180206.012130-424.pom>jenkins-snapshot-local=
-decouplink-1.0.2-20180206.012130-424.nbm>jenkins-snapshot-local=
-decouplink-1.0.2-20180206.012130-424.jar>jenkins-snapshot-local=
+#Fri Sep 06 15:18:25 CEST 2019
+decouplink-1.0.2-SNAPSHOT-sources.jar>=
+decouplink-1.0.2-SNAPSHOT.nbm>=
+decouplink-1.0.2-SNAPSHOT.jar>=
+decouplink-1.0.2-SNAPSHOT.pom>=
