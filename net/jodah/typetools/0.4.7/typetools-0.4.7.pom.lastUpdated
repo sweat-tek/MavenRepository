@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 22 12:49:11 CEST 2018
+http\://bits.netbeans.org/nexus/content/groups/netbeans/.lastUpdated=1529664550503
+https\://repo.maven.apache.org/maven2/.lastUpdated=1529664551331
+http\://bits.netbeans.org/nexus/content/groups/netbeans/.error=
+http\://repo.spring.io/release/.lastUpdated=1529664551050
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1529664550894
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+http\://repo.spring.io/release/.error=

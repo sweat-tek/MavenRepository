@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>dk.sdu.mmmi</groupId>
+        <artifactId>dynagrow-parent</artifactId>
+        <version>1.0.2-SNAPSHOT</version>
+    </parent>
+
+    <groupId>dk.sdu.mmmi</groupId>
+    <artifactId>gc-impl-privaconnector</artifactId>
+    <packaging>nbm</packaging>
+
+    <name>dk.sdu.mmmi.gc.impl.privaconnector</name>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>nbm-maven-plugin</artifactId>
+                <extensions>true</extensions>
+                <configuration>
+                    <publicPackages>
+                        <publicPackage>dk.sdu.mmmi.gc.hal.priva</publicPackage>
+                        <publicPackage>dk.sdu.mmmi.gc.hal.priva.acquaintance</publicPackage>
+                        <publicPackage>dk.sdu.mmmi.gc.hal.priva.entities</publicPackage>
+                    </publicPackages>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+    <dependencies>
+        <dependency>
+            <groupId>org.netbeans.api</groupId>
+            <artifactId>org-netbeans-api-annotations-common</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.netbeans.external</groupId>
+            <artifactId>jna-3.4.0</artifactId>
+            <version>RELEASE80</version>
+            <type>jar</type>
+        </dependency>
+    </dependencies>
+
+</project>
